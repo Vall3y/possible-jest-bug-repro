@@ -1,0 +1,10 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guy Zissman <guyz@rewire.to>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
